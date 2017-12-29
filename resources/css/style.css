@@ -1,6 +1,8 @@
 html {
 	font-family: Helvetica;
+	font-style: sans-serif;
 	text-align: center;
+	
 }
 ul {
 	list-style: none;
@@ -9,6 +11,7 @@ header {
 	background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 	color: white;
 	font-weight: bold;
+
 }
 h1 {
 	font-size: 70px;
@@ -17,4 +20,18 @@ h1 {
 a {
 	font-size: 18px;
 	color: white;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 23px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 14px
 }
